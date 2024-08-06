@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../images/img-1.png'
+
 import logo from "../images/Niki-Logo.jpg"
 import './Navbar.css'
 export default function Navbar() {

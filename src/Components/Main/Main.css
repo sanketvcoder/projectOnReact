@@ -1,0 +1,42 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1125px;
+    margin: auto;
+    height: 613px;
+}
+
+.box1 {
+    width: 595px;
+    height: 613px;
+    gap: 36px;
+}
+
+.box1 h1 {
+    font-size: 6pc;
+    margin: 1px 0px;
+}
+
+p {
+    width: 404px;
+    height: 91px;
+    font-family: popins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.btn-1,
+.btn-2 {
+    margin-right: 40px;
+    width: 131px;
+    height: 41px;
+    margin-bottom: 23px;
+}
+
+.btn-2 {
+    background-color: white;
+    color: #9a9898;
+    font-size: 19px;
+}
